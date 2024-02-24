@@ -1,0 +1,10 @@
+scikit-learn
+umap-learn
+sklearn
+pandas
+numpy
+matplotlib
+langchain
+langchain-openai
+chroma
+yellowbrick
