@@ -3,11 +3,19 @@ name = "mlproject"
 version = "0.1.0"
 description = ""
 authors = ["mariosajdini <t8200003@aueb.gr>"]
-readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
-
+python = "^3.11"
+chromadb = "*"
+langchain-openai = "*"
+pandas = "*"
+numpy = "^*"
+json = "*"
+scikit-learn = "*"
+tensorflow = "*"
+seaborn = "*"
+matplotlib = "^*"
+yellowbrick = "*"
 
 [build-system]
 requires = ["poetry-core"]
